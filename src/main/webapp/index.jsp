@@ -1,5 +1,6 @@
 <html>
 <body>
-<h2><%= "Hello World!" %></h2>
+<a href= "employee"> View All Employees </a><br>
+<a href= "employee?action=create"> Add New Employees </a><br>
 </body>
 </html>
